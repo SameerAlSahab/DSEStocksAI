@@ -1,2 +1,6 @@
 # DSE-StockMarket-AI
-Dhaka Stock Exchange AI assistant which buy/sell and give advice (risks still apply). Made for personal use. :((
+Dhaka Stock Exchange AI assistant which buys/sells and gives advice (risks still apply). :((
+
+
+## Licensing
+Thanks <code> https://github.com/rochi88/bdshare </code> MIT License 
